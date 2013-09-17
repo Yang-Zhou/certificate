@@ -1,7 +1,7 @@
-
 Machine Learning
 ================
 (https://github.com/Yang-Zhou/certificate/blob/master/get_certificate_R.pdf)
+
 Syllabus
 The following is a tentative syllabus for the class:
 
@@ -31,5 +31,6 @@ Homework: (implementation model, I have finished all these homeworks with 100% p
 R
 =
 (https://github.com/Yang-Zhou/certificate/blob/master/get_certificate_R.pdf)
+
 A very basics of R, including:
 reading data, writing functions, making informative graphs, and applying modern statistical methods.

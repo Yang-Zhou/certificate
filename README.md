@@ -3,6 +3,8 @@ MY CERTIFICATES
 Machine Learning
 ----------------
 
+![ML](https://raw.github.com/Yang-Zhou/certificate/master/ML.png)
+
 ###Syllabus
 
 The following is a tentative syllabus for the class:
@@ -31,6 +33,7 @@ Homework: (implementation model, I have finished all these homeworks with 100% p
 
 R
 =
+![ML](https://raw.github.com/Yang-Zhou/certificate/master/R.png)
 A very basics of R, including:
 ------------------------------
 reading data, writing functions, making informative graphs, and applying modern statistical methods.

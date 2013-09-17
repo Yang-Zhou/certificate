@@ -2,6 +2,7 @@ MY CERTIFICATES
 ===============
 Machine Learning
 ----------------
+
 ###Syllabus
 
 The following is a tentative syllabus for the class:

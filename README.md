@@ -19,7 +19,7 @@ The following is a tentative syllabus for the class:
 *  Recommender systems.
 *  Large-scale machine learning. An example of an application of machine learning.
 
-Homework: (implementation model, I have finished all these homeworks with 100% points)  
+Homework: (implementation model or some key parts of the model, I have finished all these homeworks with 100% points)  
 *  IV. Linear Regression with Multiple Variables (Week 2)
 *  VII. Regularization (Week 3)
 *  VIII. Neural Networks: Representation (Week 4)
